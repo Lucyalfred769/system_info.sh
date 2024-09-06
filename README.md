@@ -17,16 +17,16 @@ This Bash script generates a detailed system information report. It allows you t
 
 ## Usage
 
-1. **Save the Script**: Copy the script into a file, for example, `system_info.sh`.
+1. **Save the Script**: Copy the script into a file, for example, `systeminfo.sh`.
 
 2. **Make the Script Executable**:
     ```bash
-    chmod +x system_info.sh
+    chmod +x systeminfo.sh
     ```
 
 3. **Run the Script**:
     ```bash
-    ./system_info.sh
+    ./systeminfo.sh
     ```
 
 4. **Follow Prompts**: The script will prompt you to choose which information to include in the report.
